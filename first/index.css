@@ -30,7 +30,7 @@ float: right;
   background-color: rgb(65, 65, 65);
 }
 .bottom{
-  float: right;
+  float: right; 
   /* display: inline-block; */
   height: 10%;
   width: 80%;
