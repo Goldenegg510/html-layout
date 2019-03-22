@@ -1,0 +1,35 @@
+body{
+  height: 100vh;
+}
+header{
+  background-color: gray;
+  height: 10%;
+  margin: 0;
+}
+.blueSquare{
+  display: inline-block;
+  background-color: rgb(0, 0, 175);
+  height: 30px;
+  width: 30px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+p{
+  margin: 20px;
+}
+.blue{
+  background-color: rgb(0, 52, 221);
+  height: 17.2%;
+}
+.blueGreen{
+  background-color: rgb(0, 184, 159);
+  height: 17.2%;
+}
+.green{
+  background-color: rgb(88, 206, 72);
+  height: 17.2%;
+}
+.yellow{
+  background-color: rgb(217, 255, 0);
+  height: 17.2%;
+}
